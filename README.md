@@ -2,7 +2,7 @@
 <div align="center">
 
 # 🌕 **Atharv Panwar**  
-### _Engineering • Mechatronics • Robotics • Weaponry • Embedded Systems_
+### _Engineering • Mechatronics • Robotics • Weaponry_
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1100&color=8C8C8C&center=true&vCenter=true&width=650&lines=Electronics+%26+Communication+Engineering+Student;Vice-President+of+IoT+Club;Robotics+%7C+Mechatronics+%7C+Weaponry;Product+Design+%7C+Prototyping+%7C+Research;I+Build+the+Things+I+Imagine" />
 
@@ -11,18 +11,53 @@
 ---
 
 ## 🧩 **About Me**
-I'm an Electronics & Communication Engineering student focused on **building real hardware**, exploring robotics & mechatronics, and creating engineering systems that solve real-world problems.
 
-I explore:
-- ⚙️ Robotics & Mechatronics  
-- 🔧 Embedded Systems (Arduino, ESP32, ESP-CAM)  
-- 🛠 Product Design & Rapid Prototyping  
-- 🛰 Sensors, Circuits, Microcontrollers  
-- 🎯 Weaponry Concepts & Mechanical Systems  
-- 📡 Research & Technical Exploration  
+I’m an Electronics & Communication Engineering student driven by **engineering curiosity, invention, and hands-on creation**.  
+I love building real hardware, designing mechanisms, understanding how systems behave, and turning concepts into working prototypes.  
+My work blends **electronics, mechanics, research thinking, and practical engineering** — making me deeply connected to fields like robotics, mechatronics, weaponry concepts, and embedded technology.
 
-Vice-President of the **IoT Club** • Class Representative • Builder & Researcher  
-> **If I imagine it — I build it.**
+I’m currently the **Vice-President of the IoT Club** and my goal is simple:  
+**learn deeply, experiment fearlessly, and build endlessly.**
+
+<br/>
+
+<div align="left">
+
+### <img src="https://static-00.iconduck.com/assets.00/dot-icon-256x256-h3sd4mro.png" width="12"/> **What I Explore**
+
+<div style="padding-left:10px">
+
+<p align="left">
+<b>⚙️ Robotics & Mechatronics</b> — mechanisms, motion, real-world electromechanical systems  
+</p>
+
+<p align="left">
+<b>🔧 Embedded Systems</b> — Arduino, ESP32, ESP32-CAM, sensor integration, microcontrollers  
+</p>
+
+<p align="left">
+<b>🛠 Product Design & Rapid Prototyping</b> — CAD, iterations, functional hardware builds  
+</p>
+
+<p align="left">
+<b>🛰 Electronic Systems</b> — circuits, debugging, PCB logic, real hardware troubleshooting  
+</p>
+
+<p align="left">
+<b>🎯 Weaponry Concepts & Mechanical Systems</b> — engineering mechanisms & design logic  
+</p>
+
+<p align="left">
+<b>📡 Research & Technical Exploration</b> — deep-diving into tech, learning how things work  
+</p>
+
+</div>
+
+</div>
+
+<br/>
+
+> **If I imagine it — I build it. If it breaks — I build it better.**
 
 ---
 
