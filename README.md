@@ -1,88 +1,57 @@
-# 🌑 Atharv Panwar — Engineering, Innovation & Mechatronics  
-**Electronics & Communication Engineering | Vice-President, IoT Club | Robotics | Mechatronics | Embedded Systems**
+<!-- Hero Section -->
+<div align="center">
 
-Welcome to my universe — a space where engineering, curiosity, and creativity collide.
+# 🌑 **Atharv Panwar**
+### _Engineering • Innovation • Mechatronics_
 
-I explore **Robotics, Mechatronics, AI-driven systems, Embedded Electronics, and Weaponry Tech**.  
-I love building things I imagine, experimenting with new technologies, and solving real-world problems through innovation.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=9A9A9A&center=true&vCenter=true&width=450&lines=Robotics+%7C+Mechatronics+%7C+AI+Systems;Embedded+Electronics+%7C+Arduino+%7C+ESP32;I+Build+the+Things+I+Imagine." alt="Typing Animation"/>
 
----
-
-## ⚡ About Me  
-I’m an Electronics & Communication Engineering student with a deep interest in engineering design, embedded systems, and research-driven problem solving.
-
-What I do:
-- ⚙️ Robotics + Mechatronics  
-- 🤖 Arduino, ESP32/ESP-CAM, Microcontrollers  
-- 🧠 AI-assisted hardware & computer vision  
-- 🛠️ Product design, prototyping & CAD  
-- 🚀 Research, invention & exploration
-
-I currently serve as **Vice-President of the IoT Club** and **Class Representative**, helping lead projects, guide juniors, and create engineering-focused initiatives.
+</div>
 
 ---
 
-## 🚀 Projects & Research  
+## ⚡ **About Me**
+I explore Robotics, Mechatronics, AI-driven hardware, Embedded Electronics, and creative engineering.  
+I love designing systems, experimenting, rapid-prototyping, and building things I imagine.
 
-### 🔹 Smart AI Drone — *Leaf-Level Precision Spraying*  
-A drone system that uses **AI + Computer Vision** to detect infected leaves and precisely spray affected areas using an ESP32-CAM controlled spray arm.  
-Focus: **Precision agriculture, chemical reduction, automation**.
-
-### 🔹 Arduino & ESP Projects  
-Hands-on work with:
-- Sensors, motors, actuators  
-- Interrupts, PWM, analog/digital I/O  
-- ESP32 + GPT API integration  
-- ESP32-CAM imaging  
-- Prototyping in Tinkercad
-
-### 🔹 Steam Engine Micro-Car  
-Small-scale eco-friendly vehicle using steam-based motion mechanics.
-
-### 🔹 Smart Eco-Tech Home  
-Research combining ancient Indian architecture + modern smart-tech with plastic-bottle brick thermal structures.
+Vice-President of the **IoT Club** • Class Representative • Research & Innovation-focused ECE student.
 
 ---
 
-## 🧩 Skills  
-
-### **Electronics & Embedded Systems**  
-- Arduino, ESP32, ESP32-CAM  
-- Sensor interfacing  
-- Circuit design & debugging  
-- CAD & product design  
-- Tinkercad simulations  
-
-### **Programming**  
-- C++  
-- Arduino/C  
-- Python  
-- HTML & CSS  
-- SQL  
-- Basic OpenCV + AI workflows  
-
-### **Tools**  
-- Microsoft Office  
-- LibreOffice  
-- Google Workspace  
-
-### **Soft Skills**  
-- Leadership  
-- Team communication  
-- Project management  
+## 🚀 **Projects (Just Names)**
+- Smart AI Drone – Leaf-Level Precision Spraying  
+- Arduino & ESP Experimental Builds  
+- Steam Engine Micro-Car Model  
+- Smart Eco-Tech + Traditional Home Project  
 
 ---
 
-## 🏆 Certifications  
-- **MIT OCW** — Collaborative Design & Creative Expression with Arduino Microcontrollers (RES.3-002)  
-- **NASSCOM** — Junior Software Developer  
-- **NASSCOM** — Domestic Data Entry Operator  
-- **Saylor Academy** — C++ Programming  
-- **NCSTC** — State Level Child Scientist (NCSC – 26th & 27th)
+## 🧩 **Skills (Compact Horizontal Layout)**
+
+### **⚙️ Electronics / Embedded**
+`Arduino` · `ESP32` · `ESP32-CAM` · `Sensors` · `Circuits` · `Tinkercad` · `CAD`  
+
+### **💻 Programming**
+`C++` · `Arduino/C` · `Python` · `HTML` · `CSS` · `SQL` · `Basic OpenCV`  
+
+### **🛠 Tools**
+`MS Office` · `LibreOffice` · `Google Workspace`  
+
+### **🧠 Soft Skills**
+`Leadership` · `Teamwork` · `Research`  
 
 ---
 
-## 🌐 Connect With Me  
+## 🏆 **Certifications**
+- MIT OCW – Arduino Creative Engineering (RES.3-002)  
+- NASSCOM – Junior Software Developer  
+- NASSCOM – Domestic Data Entry Operator  
+- Saylor Academy – C++  
+- NCSTC – State Level Child Scientist  
+
+---
+
+## 🌐 **Connect With Me**
 - **LinkedIn:** https://www.linkedin.com/in/atharvpanwar  
 - **GitHub:** https://github.com/AtharvPanwar  
 - **Devpost:** https://devpost.com/atharvpanwar2005  
@@ -91,8 +60,11 @@ Research combining ancient Indian architecture + modern smart-tech with plastic-
 
 ---
 
-##  Philosophy  
-> *“I want to make the things I imagine — and understand the things I don’t.”*
+<div align="center">
 
-This GitHub is where I experiment, innovate, and build the future — one project at a time.
+## 🖤 _“I want to make the things I imagine — and understand the things I don’t.”_
 
+### ⚡ Minimal • Dark • Modern • No Neon  
+<img src="https://github.com/AtharvPanwar/AtharvPanwar/blob/main/line-divider.gif" width="100%" />
+
+</div>
