@@ -2,7 +2,7 @@
 <div align="center">
 
 # 🌕 **Atharv Panwar**  
-### _Engineering • Mechatronics • Robotics • Weaponry • Embedded Systems_
+### _Engineering • Mechatronics • Robotics • Weaponry_
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1100&color=8C8C8C&center=true&vCenter=true&width=650&lines=Electronics+%26+Communication+Engineering+Student;Vice-President+of+IoT+Club;Robotics+%7C+Mechatronics+%7C+Weaponry;Product+Design+%7C+Prototyping+%7C+Research;I+Build+the+Things+I+Imagine" />
 
@@ -11,7 +11,11 @@
 ---
 
 ## 🧩 **About Me**
-I'm an Electronics & Communication Engineering student focused on **building real hardware**, exploring robotics & mechatronics, and creating engineering systems that solve real-world problems.
+I’m an Electronics & Communication Engineering student driven by **engineering curiosity, invention, and hands-on creation**.  
+I love building real hardware, designing mechanisms, understanding how systems behave, and turning concepts into working prototypes.  
+My work blends **electronics, mechanics, research thinking, and practical engineering** — making me deeply connected to fields like robotics, mechatronics, weaponry concepts, and embedded technology.
+I’m currently the **Vice-President of the IoT Club** and my goal is simple:  
+**learn deeply, experiment fearlessly, and build endlessly.**
 
 I explore:
 - ⚙️ Robotics & Mechatronics  
@@ -20,9 +24,6 @@ I explore:
 - 🛰 Sensors, Circuits, Microcontrollers  
 - 🎯 Weaponry Concepts & Mechanical Systems  
 - 📡 Research & Technical Exploration  
-
-Vice-President of the **IoT Club** • Class Representative • Builder & Researcher  
-> **If I imagine it — I build it.**
 
 ---
 
@@ -36,20 +37,18 @@ Vice-President of the **IoT Club** • Class Representative • Builder & Resear
 
 <table>
 <tr>
-<td width="33%" valign="top">
+<td width="39%" valign="top">
 
-### ⚙️ Electronics / Embedded
+### ⚙️ Electronic & Robotics
 `Arduino`  
 `ESP32`  
 `ESP32-CAM`  
-`Sensors`  
-`Circuits`  
-`Debugging`  
+`Sensors`      
 `CAD`  
 `Tinkercad`  
 
 </td>
-<td width="33%" valign="top">
+<td width="27%" valign="top">
 
 ### 💻 Programming
 `C++`  
@@ -58,7 +57,6 @@ Vice-President of the **IoT Club** • Class Representative • Builder & Resear
 `HTML`  
 `CSS`  
 `SQL`  
-`Basic OpenCV`  
 
 </td>
 <td width="33%" valign="top">
@@ -68,9 +66,8 @@ Vice-President of the **IoT Club** • Class Representative • Builder & Resear
 `LibreOffice`  
 `Google Workspace`  
 `Leadership`  
+`Research`  
 `Teamwork`  
-`Communication`  
-`Research Thinking`
 
 </td>
 </tr>
