@@ -63,11 +63,11 @@ Vice-President of the **IoT Club** • Class Representative • Builder & Resear
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/atharvpanwar"><img src="linkedin" width="45"/></a> <!-- (You can replace with a logo if needed) -->
+<a href="https://www.linkedin.com/in/atharvpanwar"><img src="https://static.vecteezy.com/system/resources/previews/018/930/480/non_2x/linkedin-logo-linkedin-icon-transparent-free-png.png" width="45"/></a> <!-- (You can replace with a logo if needed) -->
 <a href="https://github.com/AtharvPanwar"><img src="https://skillicons.dev/icons?i=github" width="45"/></a>
-<a href="https://devpost.com/atharvpanwar2005"><img src="./devpost.png" width="45"/></a>
-<a href="https://www.freelancer.in/u/atharvpanwar"><img src="./freelancer.png" width="45"/></a>
-<a href="https://www.fiverr.com/s/qDB8v65"><img src="./fiverr.png" width="45"/></a>
+<a href="https://devpost.com/atharvpanwar2005"><img src="https://img.icons8.com/androidL/512/FFFFFF/devpost.png" width="45"/></a>
+<a href="https://www.freelancer.in/u/atharvpanwar"><img src="https://miro.medium.com/0*jr2Z-8jnN5uKbjT_.png" width="45"/></a>
+<a href="https://www.fiverr.com/s/qDB8v65"><img src="https://img.icons8.com/ios11/512/40C057/fiverr.png" width="45"/></a>
 
 </div>
 
@@ -75,6 +75,6 @@ Vice-President of the **IoT Club** • Class Representative • Builder & Resear
 
 <div align="center">
 
-## 🖤 _“I want to make the things I imagine — and understand the things I don’t.”_
+##  _“I want to make the things I think — and understand the things I don’t.”_
 
 </div>
