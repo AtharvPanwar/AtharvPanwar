@@ -4,45 +4,28 @@
 # 🌕 **Atharv Panwar**  
 ### _Engineering • Mechatronics • Robotics • Weaponry_
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1100&color=8C8C8C&center=true&vCenter=true&width=650&lines=Electronics+%26+Communication+Engineering+Student;Vice-President+of+IoT+Club;Robotics+%7C+Mechatronics+%7C+Weaponry;Product+Design+%7C+Prototyping+%7C+Research;I+Build+the+Things+I+Imagine" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&color=8C8C8C&center=true&vCenter=true&width=600&lines=ECE+Student;Vice-President+of+IoT+Club;Robotics+%7C+Mechatronics+%7C+Weaponry;Product+Design+%7C+Prototyping;I+Build+the+Things+I+Imagine" />
 
 </div>
+
 ---
+
 ## 🧩 **About Me**
+I’m an Electronics & Communication Engineering student passionate about **building hardware**, designing mechanisms, and transforming ideas into working prototypes. My interests blend **electronics, mechanics, circuits, microcontrollers, and engineering research**, shaping my journey through robotics, mechatronics, and weaponry concepts.
 
-I’m an Electronics & Communication Engineering student driven by **engineering curiosity, invention, and hands-on creation**.  
-I love building real hardware, designing mechanisms, understanding how systems behave, and turning concepts into working prototypes.  
-My work blends **electronics, mechanics, research thinking, and practical engineering** — making me deeply connected to fields like robotics, mechatronics, weaponry concepts, and embedded technology.
-
-I’m currently the **Vice-President of the IoT Club** and my goal is simple:  
-**learn deeply, experiment fearlessly, and build endlessly.**
+Currently **Vice-President of the IoT Club**, I focus on learning deeply, experimenting boldly, and building consistently.
 
 <br/>
 
-<div align="left">
-
 ### **What I Explore**
-<div style="padding-left:10px">
+<div style="padding-left:12px">
 
-<p align="left">
-<b>⚙️ Robotics & Mechatronics</b> — mechanisms, motion, real-world electromechanical systems  
-</p>
-<p align="left">
-<b>🔧 Embedded Systems</b> — Arduino, ESP32, ESP32-CAM, sensor integration, microcontrollers  
-</p>
-<p align="left">
-<b>🛠 Product Design & Rapid Prototyping</b> — CAD, iterations, functional hardware builds  
-</p>
-<p align="left">
-<b>🛰 Electronic Systems</b> — circuits, debugging, PCB logic, real hardware troubleshooting  
-</p>
-<p align="left">
-<b>🎯 Weaponry Concepts & Mechanical Systems</b> — engineering mechanisms & design logic  
-</p>
-<p align="left">
-<b>📡 Research & Technical Exploration</b> — deep-diving into tech, learning how things work  
-</p>
-</div>
+<p><b>⚙️ Robotics & Mechatronics</b> — motion, mechanisms, electromechanical systems</p>
+<p><b>🔧 Embedded Systems</b> — Arduino, ESP32/ESP-CAM, sensors, microcontrollers</p>
+<p><b>🛠 Product Design & Prototyping</b> — CAD, iterations, functional builds</p>
+<p><b>🛰 Electronics</b> — circuits, debugging, PCB logic, system behavior</p>
+<p><b>🎯 Weaponry Concepts</b> — mechanical mechanisms & engineering logic</p>
+<p><b>📡 Research & Exploration</b> — learning how things work & why</p>
 
 </div>
 
@@ -60,7 +43,7 @@ I’m currently the **Vice-President of the IoT Club** and my goal is simple:
 
 ---
 
-## 🛠️ **Skills (Compact Horizontal Layout)**
+## 🛠️ **Skills**
 
 ### **⚙️ Electronics / Embedded**
 `Arduino` · `ESP32` · `ESP32-CAM` · `Sensors` · `Circuits` · `Debugging` · `CAD` · `Tinkercad`
@@ -72,7 +55,7 @@ I’m currently the **Vice-President of the IoT Club** and my goal is simple:
 `MS Office` · `LibreOffice` · `Google Workspace`
 
 ### **🧠 Soft Skills**
-`Leadership` · `Team Management` · `Communication` · `Research Thinking`
+`Leadership` · `Teamwork` · `Communication` · `Research Thinking`
 
 ---
 
@@ -89,11 +72,11 @@ I’m currently the **Vice-President of the IoT Club** and my goal is simple:
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/atharvpanwar"><img src="https://static.vecteezy.com/system/resources/previews/018/930/480/non_2x/linkedin-logo-linkedin-icon-transparent-free-png.png" width="45"/></a> <!-- (You can replace with a logo if needed) -->
-<a href="https://github.com/AtharvPanwar"><img src="https://skillicons.dev/icons?i=github" width="45"/></a>
-<a href="https://devpost.com/atharvpanwar2005"><img src="https://img.icons8.com/androidL/512/FFFFFF/devpost.png" width="45"/></a>
-<a href="https://www.freelancer.in/u/atharvpanwar"><img src="https://miro.medium.com/0*jr2Z-8jnN5uKbjT_.png" width="45"/></a>
-<a href="https://www.fiverr.com/s/qDB8v65"><img src="https://img.icons8.com/ios11/512/40C057/fiverr.png" width="45"/></a>
+<a href="https://www.linkedin.com/in/atharvpanwar"><img src="https://static.vecteezy.com/system/resources/previews/018/930/480/non_2x/linkedin-logo-linkedin-icon-transparent-free-png.png" width="40"/></a>
+<a href="https://github.com/AtharvPanwar"><img src="https://skillicons.dev/icons?i=github" width="40"/></a>
+<a href="https://devpost.com/atharvpanwar2005"><img src="https://img.icons8.com/androidL/512/FFFFFF/devpost.png" width="40"/></a>
+<a href="https://www.freelancer.in/u/atharvpanwar"><img src="https://miro.medium.com/0*jr2Z-8jnN5uKbjT_.png" width="40"/></a>
+<a href="https://www.fiverr.com/s/qDB8v65"><img src="https://img.icons8.com/ios11/512/40C057/fiverr.png" width="40"/></a>
 
 </div>
 
@@ -101,6 +84,6 @@ I’m currently the **Vice-President of the IoT Club** and my goal is simple:
 
 <div align="center">
 
-##  _“I want to make the things I think — and understand the things I don’t.”_
+### _“I want to make the things I think — and understand the things I don’t.”_
 
 </div>
