@@ -7,9 +7,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1100&color=8C8C8C&center=true&vCenter=true&width=650&lines=Electronics+%26+Communication+Engineering+Student;Vice-President+of+IoT+Club;Robotics+%7C+Mechatronics+%7C+Weaponry;Product+Design+%7C+Prototyping+%7C+Research;I+Build+the+Things+I+Imagine" />
 
 </div>
-
 ---
-
 ## 🧩 **About Me**
 
 I’m an Electronics & Communication Engineering student driven by **engineering curiosity, invention, and hands-on creation**.  
@@ -23,34 +21,27 @@ I’m currently the **Vice-President of the IoT Club** and my goal is simple:
 
 <div align="left">
 
-### <img src="https://static-00.iconduck.com/assets.00/dot-icon-256x256-h3sd4mro.png" width="12"/> **What I Explore**
-
+### **What I Explore**
 <div style="padding-left:10px">
 
 <p align="left">
 <b>⚙️ Robotics & Mechatronics</b> — mechanisms, motion, real-world electromechanical systems  
 </p>
-
 <p align="left">
 <b>🔧 Embedded Systems</b> — Arduino, ESP32, ESP32-CAM, sensor integration, microcontrollers  
 </p>
-
 <p align="left">
 <b>🛠 Product Design & Rapid Prototyping</b> — CAD, iterations, functional hardware builds  
 </p>
-
 <p align="left">
 <b>🛰 Electronic Systems</b> — circuits, debugging, PCB logic, real hardware troubleshooting  
 </p>
-
 <p align="left">
 <b>🎯 Weaponry Concepts & Mechanical Systems</b> — engineering mechanisms & design logic  
 </p>
-
 <p align="left">
 <b>📡 Research & Technical Exploration</b> — deep-diving into tech, learning how things work  
 </p>
-
 </div>
 
 </div>
